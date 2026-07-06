@@ -1,20 +1,36 @@
-# Hi, I'm Maxwell 👋
+# Maxwell Iheagwara
 
-I'm a QA Engineer focused on building reliable web experiences through thoughtful testing and maintainable automation.
+**QA Automation Engineer at [Wander](https://www.wander.com)**
 
-### What I work with
+I own end-to-end test automation and CI infrastructure across the **wander.com marketplace** and the **WanderOS direct-booking platform**. I treat the test suite as a product: deterministic, cost-aware, and loud in the right way when something breaks.
 
-- End-to-end testing with Cypress
-- JavaScript test automation
-- Functional, regression, and exploratory testing
-- Clear bug reports and practical test documentation
+### Impact at Wander
 
-### Featured project
+- Became the top contributor to both Playwright suites, with **131 pull requests** and **582 commits** from March to July 2026
+- Built and now maintain **19 CI workflows** covering release gates, production smoke tests, checkout, payments, accessibility, visual regression, API health, and mobile/WebKit coverage
+- Created a live, Linear-powered **QA analytics dashboard** for Marketplace, WanderOS, and Platform teams
+- Built production booking and checkout canaries that catch auth, pricing, payment, and booking failures before customers do
+- Reduced GitHub Actions spend by approximately **46%** in one suite while preserving coverage and merge-blocking gates
+- Added Sentry-enriched, plain-English Slack alerts so failures arrive with useful backend context instead of raw noise
 
-**[WanderSearch](https://github.com/maxwellth/WanderSearch)** — Cypress test automation for a search experience, with both reusable custom commands and a straightforward test implementation.
+### What I build
 
-### What matters to me
+- Reliable Playwright end-to-end and API test suites
+- Release gates, scheduled monitors, and production canaries
+- GitHub Actions architecture and CI cost optimization
+- QA observability with Sentry, Slack, traces, and structured test artifacts
+- Internal quality tooling with Next.js, Linear GraphQL, and Google SSO
 
-I like tests that are readable, dependable, and useful to the people maintaining the product after me.
+### Tools
 
-I'm always learning, improving my craft, and open to collaborating on quality-focused projects.
+`Playwright` `JavaScript / TypeScript` `GitHub Actions` `Next.js` `Linear GraphQL` `Sentry` `Slack API` `Cypress`
+
+### Public project
+
+**[WanderSearch](https://github.com/maxwellth/WanderSearch)** - Cypress automation for search functionality, including reusable custom commands, edge-case coverage, test cases, and bug reporting.
+
+### How I think about quality
+
+Good automation should fail on real defects, not noise. It should be readable, maintainable, economical to run, and clear enough that the whole team can trust the release signal.
+
+[Email me](mailto:maxwell@wander.com)
