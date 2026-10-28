@@ -33,4 +33,4 @@ I own end-to-end test automation and CI infrastructure across the **wander.com m
 
 Good automation should fail on real defects, not noise. It should be readable, maintainable, economical to run, and clear enough that the whole team can trust the release signal.
 
-[Email me](mailto:maxwell@wander.com)
+[Email me](mailto:maxiheagwara@gmail.com)
